@@ -1,0 +1,1 @@
+It is a bunch of coding exercises to train how Machine learning works
